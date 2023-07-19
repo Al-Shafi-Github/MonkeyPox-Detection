@@ -3,7 +3,7 @@ MonkeyPox Detection Using Machine Learning Approach and Explainable AI
 
 CSE445 is an introductory course on Macchine Learning, which was offered by [DR. RIASAT KHAN](http://ece.northsouth.edu/people/riasat-khan/) during FALL 2022 semester at North South University, Dhaka, Bangladesh. This repository contains the Project and other projet related assignments that were completed during this course.
 
-<img src="(https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/77541f2c-eb04-484d-a0ff-9072b09f0cb5)
+<img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/77541f2c-eb04-484d-a0ff-9072b09f0cb5
 " alt="Segmented image of Drive and Chase Dataset">
 <hr>
 <h3>Introduction</h3>
@@ -13,7 +13,7 @@ CSE445 is an introductory course on Macchine Learning, which was offered by [DR.
 </p>
 
 <h3>Dataset</h3> 
-<img src="(https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/d9f1485a-dab2-4484-961f-92445a17f870
+<img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/d9f1485a-dab2-4484-961f-92445a17f870
 " alt="Monkey Pox Dataset">
 
 <h3>Pre-processing</h3>
