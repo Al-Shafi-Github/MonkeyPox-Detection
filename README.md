@@ -38,7 +38,7 @@ CSE445 is an introductory course on Macchine Learning, which was offered by [DR.
 
 
 <h3>Co-relation Matrix</h3>
-<p>To understand the relationships between different features, we present the correlation matrix using HTML code.</p>
+<p>To understand the relationships between different features, we present the correlation matrix </p>
  <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/47ab9080-55ed-4b45-9734-4e56d8fd1f43" alt="Co-relation">
 
 <h3>Machine Learning Algorithms Used</h3>
