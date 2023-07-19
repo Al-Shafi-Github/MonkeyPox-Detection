@@ -30,9 +30,9 @@ CSE445 is an introductory course on Macchine Learning, which was offered by [DR.
 
  <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/951d9262-a322-479c-a1e3-8cd4a45f2d18" alt="EDA">
 
- <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/1107e156-6a4c-45c5-871d-4a8f9016f4a9" alt="EDA">
+ <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/1107e156-6a4c-45c5-871d-4a8f9016f4a9" alt="EDA">  <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/35be66ac-3168-42b4-b7a6-6449ab85870d" alt="EDA">
 
-  <img src="https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/35be66ac-3168-42b4-b7a6-6449ab85870d" alt="EDA">
+ 
 
 
 
