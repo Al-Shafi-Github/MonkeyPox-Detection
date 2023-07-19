@@ -63,8 +63,7 @@ CSE445 is an introductory course on Macchine Learning, which was offered by [DR.
 <h3>Explainable AI</h3>
 <p>Explainable AI helps us understand how our models make predictions.</p>
 <p>It provides insights into the reasons behind model decisions, increasing transparency and trust.</p>
- <img src="![image](https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/74ec5c64-0dc0-4eb6-970c-8523ac59d602)
-" alt="SVM">
+ <img src="![image](https://github.com/Al-Shafi-Github/MonkeyPox-Detection/assets/68460013/74ec5c64-0dc0-4eb6-970c-8523ac59d602)" alt="SVM">
 
 <p>Feel free to explore our repository and contribute to this exciting project!</p>
 <p>If you have any questions or suggestions, please let us know. Happy coding!</p>
