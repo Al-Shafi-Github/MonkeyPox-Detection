@@ -4,16 +4,7 @@ MonkeyPox Detection Using Machine Learning Approach and Explainable AI
 CSE445 is an introductory course on Macchine Learning, which was offered by [DR. RIASAT KHAN](http://ece.northsouth.edu/people/riasat-khan/) during FALL 2022 semester at North South University, Dhaka, Bangladesh. This repository contains the Project and other projet related assignments that were completed during this course.
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>MonkeyPox-Detection Using Machine Learning Approach and Explainable AI</title>
-  <!-- Add necessary meta tags, CSS links, and other dependencies here -->
-  <!-- For this example, let's use Bootstrap for styling -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-</head>
-<body>
-  <div class="container mt-5">
+
     <h1>MonkeyPox-Detection Using Machine Learning Approach and Explainable AI</h1>
     <hr>
     <h3>Introduction</h3>
@@ -64,12 +55,4 @@ CSE445 is an introductory course on Macchine Learning, which was offered by [DR.
 
     <p>Feel free to explore our repository and contribute to this exciting project!</p>
     <p>If you have any questions or suggestions, please let us know. Happy coding!</p>
-  </div>
 
-  <!-- Add necessary script tags and other dependencies here -->
-  <!-- For this example, let's use Bootstrap's JS for any JavaScript functionalities -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.9/dist/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
